@@ -163,12 +163,12 @@ export default function SiteFooter() {
               <li className="flex items-center">
   <Phone className="mr-3 h-5 w-5 shrink-0 text-red-500" />
   <a
-    href="https://wa.me/916380544276"
+    href="https://wa.me/+14037639496"
     target="_blank"
     rel="noopener noreferrer"
     className="hover:text-white"
   >
-    +91 6380544276
+    +14037639496
   </a>
 </li>
 
