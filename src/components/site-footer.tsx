@@ -168,8 +168,14 @@ export default function SiteFooter() {
               </li>
               <li className="flex items-center">
                 <Mail className="mr-3 h-5 w-5 shrink-0 text-red-500" />
-                <a href="mailto:nammapettikdai@gmail.com" className="hover:text-white">
+                <a href="mailto:nammapettikdai31@gmail.com" className="hover:text-white">
                   nammapettikadai31@gmail.com
+                </a>
+              </li>
+              <li className="flex items-center">
+                <Mail className="mr-3 h-5 w-5 shrink-0 text-red-500" />
+                <a href="mailto:nammapettikdai@gmail.com" className="hover:text-white">
+                  nammapettikadai@gmail.com
                 </a>
               </li>
             </ul>
